@@ -1,0 +1,43 @@
+/* Header */
+.header{
+   padding: 25px 0;
+}
+.nav{
+   display: flex;
+   justify-content: space-between;
+   align-items:center;
+}
+.menu-link{
+   font-size: 24px;
+   color: white;
+   text-transform: uppercase;
+   text-decoration: none;
+}
+
+/* Main */
+.main{
+   background: url(../img//group-of-happy-people-sitting-on-floor-after-workout\ 1.png) no-repeat center center;
+   background-size: cover;
+   padding: 150px;
+}
+
+.name, .price{
+   font-size: 30px;
+   font-weight: 700;
+   color: white;
+}
+.price{
+   font-size: 24px;
+}
+.info{
+   color:white;
+
+}
+
+/* Footer */
+.footer{
+   font-size: 24px;
+   line-height: 29px;
+   padding: 25px 0;
+   color: white;
+}
